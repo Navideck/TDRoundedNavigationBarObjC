@@ -31,10 +31,10 @@ Through code
 Customization
 -------------
 You can customise the properties of TDRoundedNavigationBar inside TDRoundedNavigationBar.m. 
-> **kAppNavBarHeight ** sets the bar's height
-> **kAppNavBarRadius** sets the corner radius
-> **kAppNavBarSideSpacing** set the spacing on the left and right
-> **kAppNavBarSpacingWhenStatusBarHidden** set the distance from the top of the screen when the status bar is hidden so that the bar has a nice floating effect.
+> - **kAppNavBarHeight ** sets the bar's height
+> - **kAppNavBarRadius** sets the corner radius
+> - **kAppNavBarSideSpacing** set the spacing on the left and right
+> - **kAppNavBarSpacingWhenStatusBarHidden** set the distance from the top of the screen when the status bar is hidden so that the bar has a nice floating effect.
 
 CocoaPods
 -------------
@@ -42,4 +42,4 @@ CocoaPods support coming soon
 
 Apps that use TDRoundedNavigationBar
 -------------
-![Tunedeck](http://tunedeck.navideck.com/img/Tunedeck-AppIcon.png =100x) Tunedeck for Spotify (http://tunedeck.navideck.com)
+<img src="http://tunedeck.navideck.com/img/Tunedeck-AppIcon.png" width="48"> Tunedeck for Spotify (http://tunedeck.navideck.com)
