@@ -1,6 +1,8 @@
 TDRoundedNavigationBar
 ===================
 
+![TDRoundedNavigationBar](https://github.com/Navideck/TDRoundedNavigationBar/raw/master/TDRoundedNavigationBar.gif)
+
 TDRoundedNavigationBar is an iOS UINavigationBar subclass that you can use in your own projects. It supercharges UINavigationBar with these features:
 
 > **Features:**
