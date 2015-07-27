@@ -14,8 +14,6 @@ TDRoundedNavigationBar is an iOS UINavigationBar subclass that you can use in yo
 > - **iPhone and iPad support**.
 > - **Supports any orientation** (portrait or landscape).
 
-----------
-
 
 How to use
 -------------
@@ -44,4 +42,4 @@ CocoaPods support coming soon
 
 Apps that use TDRoundedNavigationBar
 -------------
-Tunedeck for Spotify (http://tunedeck.navideck.com)
+![Tunedeck](http://tunedeck.navideck.com/img/Tunedeck-AppIcon.png =100x) Tunedeck for Spotify (http://tunedeck.navideck.com)
