@@ -1,13 +1,16 @@
 TDRoundedNavigationBar
 ===================
 
-TDRoundedNavigationBar is UINavigationBar subclass that you can use in your own projects. It supercharges UINavigationBar with these features:
+TDRoundedNavigationBar is an iOS UINavigationBar subclass that you can use in your own projects. It supercharges UINavigationBar with these features:
 
 > **Features:**
+> - **Rounded corners.** Round the corner's of your navigation bar using any radius. You can even leave the corners square by setting radius to zero.
 > - **Custom bar height.** Make you navigation bar taller or shorter.
 > - **Custom bar width.** Set the space you want to leave on the left and right of the navigation bar.
-> - **Rounded corners using any radius.** You can even leave the corners square by setting radius to zero.
+> - **Auto item positioning**. TDRoundedNavigationBar will position automatically every Navigation Bar element including title, back button or custom UIBarButtonItems to adapt to the custom size you 've set.
 > - **Vertical Bar positioning.** Set the distance you want from the top of the screen when the status bar is hidden.
+> - **iPhone and iPad support**.
+> - **Supports any orientation** (portrait or landscape).
 
 ----------
 

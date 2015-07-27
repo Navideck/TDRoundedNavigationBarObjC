@@ -4,7 +4,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
     </dependencies>
     <scenes>
-        <!--First View Controller-->
+        <!--TDRoundedNavigationBar-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
                 <viewController id="vXZ-lx-hvc" customClass="ViewController" sceneMemberID="viewController">
@@ -17,8 +17,8 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jTu-63-0gg">
-                                <rect key="frame" x="230" y="285" width="140" height="30"/>
-                                <state key="normal" title="Next View Controller">
+                                <rect key="frame" x="263" y="285" width="75" height="30"/>
+                                <state key="normal" title="Go to Next">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -32,18 +32,18 @@
                             <constraint firstItem="jTu-63-0gg" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="8fw-FH-5Rb"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="First View Controller" id="6a9-Zz-165">
-                        <barButtonItem key="rightBarButtonItem" title="About" id="gWA-Pv-MIR"/>
+                    <navigationItem key="navigationItem" title="TDRoundedNavigationBar" id="6a9-Zz-165">
+                        <barButtonItem key="rightBarButtonItem" systemItem="action" id="gWA-Pv-MIR"/>
                     </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="973" y="429"/>
         </scene>
-        <!--The Next View Controller-->
+        <!--Welcome to next-->
         <scene sceneID="OJH-Ny-8Aj">
             <objects>
-                <viewController title="The Next View Controller" id="F1A-wt-WZL" sceneMemberID="viewController">
+                <viewController title="Welcome to next" id="F1A-wt-WZL" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="6TF-nr-aSL"/>
                         <viewControllerLayoutGuide type="bottom" id="xxh-zT-kuO"/>
