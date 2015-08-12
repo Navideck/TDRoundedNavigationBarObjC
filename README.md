@@ -1,4 +1,4 @@
-TDRoundedNavigationBar
+TDRoundedNavigationBar (Deprecated and not maintained. Use newer Swift2 version https://github.com/Navideck/TDRoundedNavigationBar)
 ===================
 
 ![TDRoundedNavigationBar](https://github.com/Navideck/TDRoundedNavigationBar/raw/master/TDRoundedNavigationBar.gif)
