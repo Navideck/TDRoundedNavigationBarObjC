@@ -1,6 +1,6 @@
 TDRoundedNavigationBar (Obsolete)
 ===================
-Use the new Swift 2 version instead https://github.com/Navideck/TDRoundedNavigationBar)
+Use the new Swift 2 version instead https://github.com/Navideck/TDRoundedNavigationBar
 
 ![TDRoundedNavigationBar](https://github.com/Navideck/TDRoundedNavigationBar/raw/master/TDRoundedNavigationBar.gif)
 
