@@ -1,4 +1,4 @@
-TDRoundedNavigationBar (Deprecated and not maintained)
+TDRoundedNavigationBar (Obsolete)
 ===================
 Use the new Swift 2 version instead https://github.com/Navideck/TDRoundedNavigationBar)
 
